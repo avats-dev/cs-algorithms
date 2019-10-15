@@ -1,0 +1,8 @@
+This consists of two codes based on two different approaches on finding max P(n,r) if you have to choose n and r from a given array.
+The two different approaches can be:
+      * Naive or bruteforce approach
+      * Faster and innovative approach
+      
+      
+      
+Code is written such that you have to input the elements of the array and output will be the (n, r) pair for which P(n, r) is maximum.
